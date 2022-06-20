@@ -2,7 +2,7 @@
 little project to see what i can make in lua for a discord bot
 
 ## Installation
-* Clone or download the repository `src` folder into a new folder.
+* Clone or download the repository into a new folder.
 * In the new folder, follow the instructions to [install luvit](https://luvit.io/install.html).
 * Add your bot token and make desired changes to `src/config.lua`
 * Install dependancies: `$ lit install SinisterRectus/Discordia`
